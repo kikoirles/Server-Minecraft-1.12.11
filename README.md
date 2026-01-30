@@ -39,6 +39,29 @@ Utilizaremos en este caso
 
  <img width="982" height="513" alt="image" src="https://github.com/user-attachments/assets/0260c90d-266e-41a6-b8c2-c0772890194c" />
 
+ ## 5 MUNDOS 
+
+ Si borras las carpetas world, world_nether y world_the_end con el servidor apagado, al volver a iniciarlo:
+
+<img width="134" height="61" alt="image" src="https://github.com/user-attachments/assets/9e500848-e207-403e-9be5-3145dd962258" />
+
+El servidor genera mundos nuevos desde cero.
+
+Overworld, Nether y End se regeneran completos
+
+## 6 la carpeta de pluyings 
+
+<img width="705" height="159" alt="image" src="https://github.com/user-attachments/assets/0be4367d-641c-443e-ae78-64ecfbf4d4da" />
+
+Este servidor tiene los siguientes pluyings se pueden añadir mas
+
+- AngelChest-1.39.4.jar  (cofre si mueres no se pierdan tus cosas)
+- AuraSkills-2.3.10.jar  (jobs y skills trbajos)
+- Back-1.8.6.jar         (back de un solo uso volver a donde has muerto)
+- blocklocker-1.14.1.jar (privacidad de cofres por usuario)
+- SetHome-6.2.3.jar      (homes establece 1 home(para tu casa)
+- SilkSpawners_v2.jar    (mina toque de seda spawners)
+- tpa-1.0.jar            (tpa entre jugadores) (no hay tpahere)
 
 
 
