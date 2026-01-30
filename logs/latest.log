@@ -1,0 +1,225 @@
+[18:27:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:27:25] [ServerMain/INFO]: Loaded 1470 recipes
+[18:27:25] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[18:27:25] [Server thread/INFO]: Loading properties
+[18:27:25] [Server thread/INFO]: This server is running CraftBukkit version 4573-Spigot-66411b9-d7d8774 (MC: 1.21.11) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[18:27:25] [Server thread/INFO]: *** This version of Spigot contains changes to some enums. If you notice that plugins no longer work after updating, please report this to the developers of those plugins first. ***
+[18:27:25] [Server thread/INFO]: *** If you cannot update those plugins, you can try setting `settings.compatibility.enum-compatibility-mode` to `true` in `bukkit.yml`. ***
+[18:27:25] [Server thread/INFO]: Debug logging is disabled
+[18:27:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:27:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:27:25] [Server thread/INFO]: Default game type: SURVIVAL
+[18:27:25] [Server thread/INFO]: Generating keypair
+[18:27:25] [Server thread/INFO]: Starting Minecraft server on 192.168.2.182:25565
+[18:27:26] [Server thread/INFO]: [SetHome] Loading SetHome v6.2.3
+[18:27:26] [Server thread/INFO]: [AuraSkills] Loading AuraSkills v2.3.10
+[18:27:26] [Server thread/INFO]: [tpa] Loading tpa v1.6
+[18:27:26] [Server thread/INFO]: [AngelChest] Loading AngelChest v13.9.4
+[18:27:26] [Server thread/INFO]: [Back] Loading Back v1.8.6
+[18:27:26] [Server thread/INFO]: [BlockLocker] Loading BlockLocker v1.14.1
+[18:27:26] [Server thread/INFO]: [SilkSpawners_v2] Loading SilkSpawners_v2 v2.3.2
+[18:27:26] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.14.1
+[18:27:26] [Server thread/WARN]: [BlockLocker] Failed to register copper golem listener. Paper 1.21.10+ is required for this to function. Add GOLEM to allowDestroyBy in the config.yml to disable this warning.
+[18:27:26] [Server thread/INFO]: Preparing level "world"
+[18:27:26] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:27:26] [Server thread/INFO]: Simulation Distance: 10
+[18:27:26] [Server thread/INFO]: View Distance: 10
+[18:27:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:27:26] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:27:26] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:27:26] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:27:26] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:27:26] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:27:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:27:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:27:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Mob Spawn Range: 6
+[18:27:26] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:27:26] [Server thread/INFO]: Max TNT Explosions: 100
+[18:27:26] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:27:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:27:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:27:26] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:27:26] [Server thread/INFO]: Simulation Distance: 10
+[18:27:26] [Server thread/INFO]: View Distance: 10
+[18:27:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:27:26] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:27:26] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:27:26] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:27:26] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:27:26] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:27:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:27:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:27:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Mob Spawn Range: 6
+[18:27:26] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:27:26] [Server thread/INFO]: Max TNT Explosions: 100
+[18:27:26] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:27:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:27:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:27:26] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:27:26] [Server thread/INFO]: Simulation Distance: 10
+[18:27:26] [Server thread/INFO]: View Distance: 10
+[18:27:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:27:26] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:27:26] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:27:26] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:27:26] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:27:26] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:27:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:27:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:27:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:27:26] [Server thread/INFO]: Mob Spawn Range: 6
+[18:27:26] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:27:26] [Server thread/INFO]: Max TNT Explosions: 100
+[18:27:26] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:27:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:27:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:27:26] [Server thread/INFO]: Loading 0 persistent chunks...
+[18:27:26] [Server thread/INFO]: Preparing spawn area: 100%
+[18:27:26] [Server thread/INFO]: Time elapsed: 2 ms
+[18:27:26] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
+[18:27:26] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.3.10
+[18:27:27] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[18:27:27] [Server thread/INFO]: [AuraSkills] Loaded 160 config options in 13 ms
+[18:27:27] [Server thread/INFO]: [NBTAPI] Found Minecraft: v1_21_R7! Trying to find NMS support
+[18:27:27] [Server thread/INFO]: [NBTAPI] NMS support 'MC1_21_R7' loaded!
+[18:27:27] [Server thread/INFO]: [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[18:27:27] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[18:27:28] [Server thread/INFO]: [tpa] Enabling tpa v1.6
+[18:27:28] [Server thread/INFO]: [tpa] [36mPlugin TPA habilitado![0m
+[18:27:28] [Server thread/INFO]: [tpa] [36m  ___   __    __[0m
+[18:27:28] [Server thread/INFO]: [tpa] [36m   |   [94m|[34m__)  |__|  [32mTpa v1.6[0m
+[18:27:28] [Server thread/INFO]: [tpa] [36m   |   [94m|     |  |  [33mSpigot on Bukkit - CraftBukkit[0m
+[18:27:28] [Server thread/INFO]: [tpa] Idioma configurado: br
+[18:27:28] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.4
+[18:27:28] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[18:27:28] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[18:27:28] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[18:27:28] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[18:27:28] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[18:27:28] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.4 (Premium: false)
+[18:27:28] [Server thread/INFO]: [Back] Enabling Back v1.8.6
+[18:27:28] [Server thread/WARN]: [Back] Language 'en_US' loaded!
+[18:27:28] [Server thread/ERROR]: [Back] Plugin Back v1.8.6 has failed to register events for class me.GFelberg.Back.Main because net/milkbowl/vault/economy/Economy does not exist.
+[18:27:28] [Server thread/INFO]: [0;33;1mThe death_locations.yml file has been saved[m
+[18:27:28] [Server thread/INFO]: ----------------------------[m
+[18:27:28] [Server thread/INFO]: Back Plugin Enabled![m
+[18:27:28] [Server thread/INFO]: Vault Plugin or Economy Plugin or both not found! Plugin will works without Vault[m
+[18:27:28] [Server thread/INFO]: Plugin developed by GFelberg[m
+[18:27:28] [Server thread/INFO]: ----------------------------[m
+[18:27:28] [Server thread/INFO]: [SilkSpawners_v2] Enabling SilkSpawners_v2 v2.3.2
+[18:27:28] [Server thread/INFO]: [SilkSpawners] Loading configuration...
+[18:27:28] [Server thread/INFO]: [SilkSpawners] Configuration is up to date
+[18:27:28] [Server thread/INFO]: [0;30;1m[[0;36;1mSilkSpawners[0;30;1m] [0;30;1m[[0;32;22mINFO[0;30;1m][0;37;22m: Starting SilkSpawners v2.3.2[m
+[18:27:28] [Thread-3/INFO]: [0;30;1m[[0;36;1mSilkSpawners[0;30;1m] [0;30;1m[[0;32;22mINFO[0;30;1m][0;37;22m: Checking for updates[m
+[18:27:28] [Server thread/INFO]: [0;30;1m[[0;36;1mSilkSpawners[0;30;1m] [0;30;1m[[0;32;22mINFO[0;30;1m][0;37;22m: Loading server platform[m
+[18:27:28] [Server thread/INFO]: [0;30;1m[[0;36;1mSilkSpawners[0;30;1m] [0;30;1m[[0;32;22mINFO[0;30;1m][0;37;22m: Initialized plugin for bukkit server[m
+[18:27:28] [Server thread/INFO]: [0;30;1m[[0;36;1mSilkSpawners[0;30;1m] [0;30;1m[[0;32;22mINFO[0;30;1m][0;37;22m: Loading Cross-Version support[m
+[18:27:28] [Server thread/INFO]: [0;30;1m[[0;36;1mSilkSpawners[0;30;1m] [0;30;1m[[0;32;22mINFO[0;30;1m][0;37;22m: Loaded support for version 1.21.11[m
+[18:27:28] [Server thread/INFO]: [0;30;1m[[0;36;1mSilkSpawners[0;30;1m] [0;30;1m[[0;32;22mINFO[0;30;1m][0;37;22m: Loading locale file[m
+[18:27:28] [Server thread/INFO]: [0;30;1m[[0;36;1mSilkSpawners[0;30;1m] [0;30;1m[[0;32;22mINFO[0;30;1m][0;37;22m: Starting bStats integration[m
+[18:27:28] [Server thread/INFO]: [0;30;1m[[0;36;1mSilkSpawners[0;30;1m] [0;30;1m[[0;32;22mINFO[0;30;1m][0;37;22m: Registering listeners[m
+[18:27:28] [Server thread/INFO]: [0;30;1m[[0;36;1mSilkSpawners[0;30;1m] [0;30;1m[[0;32;22mINFO[0;30;1m][0;37;22m: Registering commands[m
+[18:27:28] [Server thread/INFO]: [0;30;1m[[0;36;1mSilkSpawners[0;30;1m] [0;30;1m[[0;32;22mINFO[0;30;1m][0;37;22m: Started SilkSpawners v2.3.2[m
+[18:27:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:27:28] [Server thread/INFO]: Done (2.293s)! For help, type "help"
+[18:27:28] [Craft Scheduler Thread - 2/INFO]: [0;36;1m[[0;33;1mBack[0;36;1m][m No update available.[m
+[18:27:28] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 327 total sources
+[18:27:28] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[18:27:28] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[18:27:28] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[18:27:28] [Thread-3/INFO]: [0;30;1m[[0;36;1mSilkSpawners[0;30;1m] [0;30;1m[[0;33;1mWARN[0;30;1m][0;37;22m: [0;33;1mUpdate available! Download at https://www.spigotmc.org/resources/silkspawners.60063/ [0;37;1m
+[18:27:28] [Thread-3/INFO]: Installed version: v2.3.2
+[18:27:28] [Thread-3/INFO]: Latest version: v2.3.3[m
+[18:27:28] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:27:28] [Server thread/INFO]: [AuraSkills] Loaded 7 menus
+[18:27:28] [Server thread/WARN]: java.net.UnknownHostException: api.jeff-media.de
+[18:27:28] [Server thread/WARN]: 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:569)
+[18:27:28] [Server thread/WARN]: 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:284)
+[18:27:28] [Server thread/WARN]: 	at java.base/java.net.Socket.connect(Socket.java:659)
+[18:27:28] [Server thread/WARN]: 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
+[18:27:28] [Server thread/WARN]: 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:161)
+[18:27:28] [Server thread/WARN]: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:516)
+[18:27:28] [Server thread/WARN]: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:604)
+[18:27:28] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:206)
+[18:27:28] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:288)
+[18:27:28] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
+[18:27:28] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:963)
+[18:27:28] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:899)
+[18:27:28] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
+[18:27:28] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1377)
+[18:27:28] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1302)
+[18:27:28] [Server thread/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+[18:27:28] [Server thread/WARN]: 	at de.jeff_media.angelchest.AngelChestMain$$TA.$$case(UpdateChecker.java:203)
+[18:27:28] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_21_R7.scheduler.CraftTask.run(CraftTask.java:82)
+[18:27:28] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_21_R7.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[18:27:28] [Server thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+[18:27:28] [Server thread/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+[18:27:28] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1474)
+[18:27:28] [Server thread/WARN]: [AngelChest] Could not check for updates.
+[18:27:31] [Server thread/INFO]: [AngelChest] ========================================================
+[18:27:31] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[18:27:31] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[18:27:31] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[18:27:31] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[18:27:31] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[18:27:31] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[18:27:31] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[18:27:31] [Server thread/INFO]: [AngelChest] 
+[18:27:31] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[18:27:31] [Server thread/INFO]: [AngelChest] ========================================================
