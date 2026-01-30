@@ -9,5 +9,4 @@ java -Xms6G -Xmx6G -jar server.jar nogui (6G de RAM Reajustable)
 Tambien hay que cambiar parametros en el archivo de (server.properties)
 
 server-ip=192.168.2.182
-
 server-port=25565
