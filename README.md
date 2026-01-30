@@ -13,9 +13,11 @@ server-ip=192.168.2.182
 
 server-port=25565
 
-## 2 Necesitmaos Java 17.0.12 o superior
+## 2 Necesitamos Java 17.0.12 o superior
 
 https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html?utm_source=chatgpt.com
 
 <img width="1470" height="265" alt="image" src="https://github.com/user-attachments/assets/4edda658-de1b-4668-8b18-e0366e3afd7a" />
+
+
 
