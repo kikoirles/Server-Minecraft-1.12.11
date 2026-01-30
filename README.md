@@ -49,7 +49,7 @@ El servidor genera mundos nuevos desde cero.
 
 Overworld, Nether y End se regeneran completos
 
-## 6 la carpeta de pluyings 
+## 6 La carpeta de pluyings 
 
 <img width="705" height="159" alt="image" src="https://github.com/user-attachments/assets/0be4367d-641c-443e-ae78-64ecfbf4d4da" />
 
