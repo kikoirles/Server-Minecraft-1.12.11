@@ -30,7 +30,9 @@ El servidor ya deberia funcionar al ejecutar el (Start server.bat),pero a nivel 
 Utilizaremos en este caso 
  https://playit.gg/
 
-disclaimer-throwback.gl.joinmc.link (es el dominio que nos asigna la aplicación)
+### disclaimer-throwback.gl.joinmc.link 
+
+(es el dominio que nos asigna la aplicación)
 
  <img width="1016" height="357" alt="image" src="https://github.com/user-attachments/assets/d2a0bb80-76d5-48d4-bbac-31072435abda" />
  <img width="914" height="816" alt="image" src="https://github.com/user-attachments/assets/1736612b-a336-403b-938b-e6ae81504e55" />
